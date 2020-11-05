@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am studying Statistics and Computer Science at CSULB
+### 🔭 I am studying Statistics and Computer Science at CSULB
 ### 🌱 I’m currently learning Linear Regression and Random Processes
 <!--
 **noahgallagher1/noahgallagher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
