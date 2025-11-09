@@ -1,9 +1,11 @@
 ### Hi there 👋
-### --> I am a Statistical Analyst looking to expand my knowledge regarding Data Analytics
-### --> I am currently learning Linear Regression and Multivariate Statistical Analysis 
+### --> I am a Data scientist with 8+ years of experience building predictive models and automated analytics solutions
+### --> Expert in Python (8+ years), SQL, and statistical modeling, with proven expertise in machine learning, A/B testing, and GenAI applications 
+### --> Track record of delivering measurable impact: 40% reduction in reporting cycles, 35% improvement in forecast accuracy, and 60& effort through automation
+### --> Strong statistical foundation (B.S. Statistics) with hands-on experience leading end-to-end data science projects
 <!--
 **noahgallagher1/noahgallagher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Data scientist with 4+ years of experience building predictive models and automated analytics solutions at City National Bank. Expert in Python (8+ years), SQL, and statistical modeling, with proven expertise in machine learning, A/B testing, and GenAI applications. Track record of delivering measurable impact: 40% reduction in reporting cycles, 35% improvement in forecast accuracy, and 60& effort through automation. Strong statistical foundation (B.S. Statistics) with hands-on experience leading end-to-end data science projects.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
